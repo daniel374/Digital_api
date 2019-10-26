@@ -2,6 +2,7 @@
 # CRUD con Mysql y node.js 
 # script de BD:
 create database crud_digital;
+
 use crud_digital;
 create table usuarios (
 	id_user int(10),

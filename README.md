@@ -10,5 +10,6 @@ create table usuarios (
 	primary key (id_user)
 );
 
+
 insert into usuarios (id_user,nom_user) values ('1','daniel');
 insert into usuarios (id_user,nom_user) values ('2','miguel');
